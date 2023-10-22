@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include "deque.h"
 
+//D5 - слияние двух деков с сохранением порядка, сортировка слиянием
+
 void print_menu() {
     printf("\nВыберите действие\n");
     printf("0)Выход\n");
