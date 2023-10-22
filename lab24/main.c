@@ -6,6 +6,8 @@
 #include <stdbool.h>
 #include "tree.h"
 
+//Вариант №4: Упростить выражение выполнив деление.
+
 #define MAX_EXPRESSION_LENGTH 100
 
 void next_symbol(Symbol* symbol, char input[]) {
