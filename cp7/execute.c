@@ -6,9 +6,9 @@
 #include <stdbool.h>
 #include "vector.h"
 
+//Вариант [4,5] - два вектора, умножение вектора-строки на разреженную матрицу
+
 int plusIndex(int col_num, int i, int j) { //функция создания индекса элемента матрицы
-//    printf("col num - %d\n", col_num);
-//    printf("i - %d, j - %d\n", i,j);
     return (i - 1) * col_num + (j - 1);
 }
 
