@@ -1,0 +1,10 @@
+1.0 Gaudeamus igitur,
+2.0 Juvenes dum sumus!
+3.0 Post jucundam juventutem,
+4.0 Post molestam senectutem
+5.0 Nos habebit humus 
+6.0 Ubi sunt, qui ante nos
+7.0 In mundo fuere?
+8.0 Transeas ad superos,
+9.0 Transeas ad inferos,
+10.0 Hos si vis videre!
